@@ -1,0 +1,126 @@
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+a {
+  color: #D60270; }
+
+p,
+body .main_footer,
+.s_about li {
+  color: #888; }
+
+.color_element {
+  color: #D60270; }
+
+.color_bg {
+  background-color: #D60270; }
+
+.color_border {
+  border-color: #D60270; }
+
+.main_color_bg {
+  background-color: #222; }
+
+.bg_light {
+  background-color: #FAFAFA; }
+
+.bg_dark {
+  background-color: #222;
+  color: #fff; }
+  .bg_dark .s_descr::after {
+    background-color: #fff; }
+  .bg_dark a {
+    color: #fff; }
+
+svg path {
+  fill: #888; }
+
+.toggle_mnu_color {
+  background-color: #222; }
+
+.top_mnu a:hover {
+  color: #D60270;
+  background-color: rgba(250, 250, 250, 0.1); }
+.top_mnu a {
+  letter-spacing: 3.5px; }
+
+.top_text p {
+  color: #FAFAFA;
+  letter-spacing: 5px; }
+
+.s_descr {
+  letter-spacing: 5px; }
+  .s_descr::after {
+    background-color: #222; }
+
+section h3 {
+  letter-spacing: 3px;
+  color: #888; }
+
+.s_about p:nth-child(even) {
+  color: #D60270; }
+
+.personal_header {
+  letter-spacing: 3px; }
+
+.resume_container h3 {
+  color: #222;
+  letter-spacing: 3px; }
+
+.resume_discription {
+  color: #FAFAFA;
+  letter-spacing: 3px;
+  background-color: #D60270; }
+
+.fidget_cube {
+  color: #222; }
+
+.fidget_cube_1 {
+  color: #222; }
+
+.buttom_form {
+  color: #FAFAFA;
+  background-color: #D60270; }
+
+.form_name_bg {
+  color: #222; }
+
+.form_name_ph {
+  color: #222; }
+
+.cotalog_container_1 h3 {
+  color: #FAFAFA;
+  letter-spacing: 1px; }
+.cotalog_container_1 a {
+  color: #D60270;
+  border-color: #D60270; }
+
+.text_offer h3 {
+  color: #FAFAFA; }
+.text_offer p strong {
+  color: #D60270; }
+
+.contact_box h3 {
+  color: #222; }
+.contact_box .contact_icon {
+  color: #D60270; }
+
+.text-danger {
+  color: #D60270; }
+
+.main_group input:focus,
+.main_group textarea:focus {
+  border: 1px solid #D60270; }
+.main_group input,
+.main_group textarea {
+  letter-spacing: 2px; }
+.main_group button {
+  background-color: #D60270;
+  color: #FAFAFA;
+  letter-spacing: 2px; }
+.main_group .form-group {
+  letter-spacing: 2px;
+  color: #888; }
+
+/*# sourceMappingURL=pink.css.map */
