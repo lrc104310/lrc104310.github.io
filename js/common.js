@@ -18,7 +18,7 @@ $(document).ready(function() {
 	$("input,select,textarea").jqBootstrapValidation();
 
 		//E-mail Ajax Send
-	$("form").submit(function() { //Change
+	$(".main_group").submit(function() { //Change
 		var th = $(this);
 		$.ajax({
 			type: "POST",
